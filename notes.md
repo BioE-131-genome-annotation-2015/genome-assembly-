@@ -5,6 +5,13 @@
 Viewing differences between local and cached:
  >>> git diff --cached --name-only
 
+Launching the notebook:
+>>> jupyter notebook
+
+
+
+
+
 
 ~~ Python Docstring for later ~~
 
