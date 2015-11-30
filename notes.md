@@ -1,11 +1,12 @@
-# link: https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
-# 0. mkdir blah; cd blah; touch app.py; # etc
-# 1. virtualenv --python=/usr/local/bin/python3 wordcounts
-# 2. source wordcounts/bin/activate# http://docs.python-guide.org/en/latest/dev/virtualenvs/
+ Potential Read Program via http://bioinform.github.io/metasv/
+ Video at http://www.bina.com
 
-# runtime.txt --> python version to run
-# requiremen
 
+Viewing differences between local and cached:
+ >>> git diff --cached --name-only
+
+
+~~ Python Docstring for later ~~
 
 ############
 ##  INFO  ##
