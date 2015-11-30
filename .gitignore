@@ -1,1 +1,6 @@
-env/ # all the shit in our virtual environment
+env/*
+# all the shit in our virtual environment
+.ipynb_checkpoints/
+# in the event we use ipython
+.DS_STORE
+atest.txt
