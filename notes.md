@@ -8,6 +8,8 @@ Viewing differences between local and cached:
 Launching the notebook:
 >>> jupyter notebook
 
+frameworkpython
+
 
 
 
