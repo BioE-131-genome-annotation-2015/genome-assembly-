@@ -12,7 +12,8 @@ frameworkpython
 
 
 
-
+http://app.mybinder.org/2213499898/notebooks/posts/sharing-interactive-jupyter-ipython-notebooks-with-binder.ipynb
+http://mybinder.org/repo/binder-project/example-requirements
 
 
 ~~ Python Docstring for later ~~
