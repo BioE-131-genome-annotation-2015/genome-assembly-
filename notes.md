@@ -15,6 +15,9 @@ frameworkpython
 http://app.mybinder.org/2213499898/notebooks/posts/sharing-interactive-jupyter-ipython-notebooks-with-binder.ipynb
 http://mybinder.org/repo/binder-project/example-requirements
 
+# load --> http://mybinder.org/repo/Kanye-western-blot/genome-assembly/status
+# view --> http://mybinder.org/repo/Kanye-western-blot/genome-assembly
+
 
 Some potential tutorials to draw from:
   - https://github.com/edamame-course/2015-tutorials/tree/master/final

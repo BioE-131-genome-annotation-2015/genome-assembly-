@@ -28,7 +28,7 @@
 ##  NOTES
 #### KANYE KANYE KANYE!
 
-
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Kanye-western-blot/genome-assembly)
 
 ##  APPENDIX
 - fn1. Make sure you have virtualenv installed and on your system path

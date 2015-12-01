@@ -5,3 +5,6 @@ env/
 # in the event we use ipython
 .DS_STORE
 atest.txt
+
+assembly/
+# failed attempt to use spades
