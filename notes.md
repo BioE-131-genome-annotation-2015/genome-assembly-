@@ -16,6 +16,12 @@ http://app.mybinder.org/2213499898/notebooks/posts/sharing-interactive-jupyter-i
 http://mybinder.org/repo/binder-project/example-requirements
 
 
+Some potential tutorials to draw from:
+  - https://github.com/edamame-course/2015-tutorials/tree/master/final
+  - https://edamame-course.github.io/docs/metagenome_assembly_and_annotation.html
+  - https://github.com/dib-lab/khmer-protocols/blob/master/mrnaseq/0-download-and-save.txt
+
+
 ~~ Python Docstring for later ~~
 
 ############
