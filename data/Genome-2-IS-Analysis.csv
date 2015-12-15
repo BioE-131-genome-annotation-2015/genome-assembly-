@@ -1,0 +1,196 @@
+Sequences producing,IS Family,Group,Origin,Score,E
+ISAch1,IS5,IS5,Achromobacter sp.,72,1.00E-08
+ISAcr5,IS1380,,Acidiphilium cryptum,42,9.3
+ISAcr4,IS1380,,Acidiphilium cryptum,42,9.3
+TnAs3,Tn3,,Aeromonas salmonicida,54,0.002
+TnAs2,Tn3,,Aeromonas salmonicida,46,0.6
+ISAs2,IS30,-,Aeromonas salmonicida,46,0.6
+ISAs28,IS21,,Aeromonas salmonicida,44,2.4
+ISAs27,IS21,,Aeromonas salmonicida,44,2.4
+TnAs1,Tn3,,Aeromonas salmonicida,42,9.3
+IS692,IS66,,Agrobacterium tumefaciens,42,9.3
+ISAmu1,IS1595,ISNwi1,Akkermansia muciniphila,48,0.15
+ISVsa5,IS4,IS10,Aliivibrio salmonicida,42,9.3
+ISAnsp12,IS66,,Anaeromyxobacter sp.,46,0.6
+ISAnsp11,IS3,IS3,Anaeromyxobacter sp.,42,9.3
+ISAnsp4,IS21,,Anaeromyxobacter sp.,42,9.3
+ISAau4,Tn3,,Arthrobacter aurescens,42,9.3
+ISArsp6,Tn3,,Arthrobacter sp.,66,6.00E-07
+ISAzo4,IS21,,Azoarcus sp.,46,0.6
+ISAzo26,IS91,,Azoarcus sp.,44,2.4
+ISAzo18,IS3,IS150,Azoarcus sp.,42,9.3
+ISAzo19,IS66,,Azoarcus sp.,42,9.3
+ISAzba1,ISKra4,ISAzba1,Azospirillum brasilense,42,9.3
+ISAli8,IS110,,Azospirillum lipoferum,42,9.3
+ISAzs17,Tn3,,Azospirillum sp.,56,6.00E-04
+ISAzs30,IS21,,Azospirillum sp.,46,0.6
+ISAzs3,IS1380,,Azospirillum sp.,42,9.3
+ISAzvi5,IS4,IS10,Azotobacter vinelandii,44,2.4
+ISBlo2,IS21,,Bifidobacterium longum,42,9.3
+ISBlma1,IS4,IS4Sa,Blastopirellula marina,44,2.4
+ISBj5_B,IS5,IS5,Bradyrhizobium japonicum,42,9.3
+ISBm2,IS3,IS407,Brucella melitensis,42,9.3
+ISBuce1,IS1182,,Burkholderia cepacia,42,9.3
+IS931,IS256,-,Burkholderia cepacia,42,9.3
+ISCc3,IS3,IS150,Caulobacter crescentus,42,9.3
+ISCge1,IS256,IS1249,Corynebacterium genitalium,42,9.3
+ISDsh2,IS3,IS407,Dinoroseobacter shibae,46,0.6
+ISSfr2,IS110,IS1111,Ensifer fredii,42,9.3
+ISEam1,IS3,IS51,Erwinia amylovora,44,2.4
+ISEc61,IS5,IS1031,Escherichia coli,44,2.4
+ISEc41,IS200/IS605,,Escherichia coli,42,9.3
+ISFsp7,IS5,ISL2,Frankia sp.,42,9.3
+ISFsp13,ISAzo13,,Frankia sp.,42,9.3
+ISGau7,IS21,,Gemmatimonas aurantiaca,42,9.3
+ISGur8,IS21,,Geobacter uraniumreducens,46,0.6
+ISHth2,ISH6,,Halococcus thailandensis,46,0.6
+ISHwa9,IS4,IS4Sa,Haloquadratum walsbyi,42,9.3
+ISHwa8,IS4,IS4Sa,Haloquadratum walsbyi,42,9.3
+ISIde1,ISL3,,Ideonella dechloratans,44,2.4
+ISLde1,ISLre2,,Lactobacillus delbrueckii,42,9.3
+ISMasp7,IS1380,,Magnetococcus sp.,42,9.3
+ISMmg4,IS701,,Magnetospirillum magneticum,42,9.3
+ISMal1,ISKra4,ISAzba1,Mesorhizobium alhagi,42,9.3
+ISMesp2,IS1380,,Mesorhizobium sp.,46,0.6
+ISCARN35,IS4,IS4,Metagenomic data from CARNOULES,50,0.038
+ISCARN23,IS1634,,Metagenomic data from CARNOULES,46,0.6
+ISCARN111,IS110,IS1111,Metagenomic data from CARNOULES,44,2.4
+ISCARN79,IS1380,,Metagenomic data from CARNOULES,44,2.4
+ISCARN69,IS630,,Metagenomic data from CARNOULES,42,9.3
+ISCARN68,IS256,,Metagenomic data from CARNOULES,42,9.3
+ISCARN18,IS110,IS1111,Metagenomic data from CARNOULES,42,9.3
+ISCARN17,IS21,,Metagenomic data from CARNOULES,42,9.3
+ISMac17,IS630,,Methanosarcina acetivorans,42,9.3
+ISMma1,ISH3,,Methanosarcina mazei,42,9.3
+ISMdi13,IS256,,Methylobacterium dichloromethanicum,44,2.4
+ISMdi27,IS21,,Methylobacterium dichloromethanicum,42,9.3
+ISMex3,IS256,,Methylobacterium extorquens,46,0.6
+ISMex8,IS21,,Methylobacterium extorquens,44,2.4
+ISMex22,Tn3,,Methylobacterium extorquens,44,2.4
+ISMex43,IS200/IS605,IS1341,Methylobacterium extorquens,42,9.3
+ISMex33,IS3,IS51,Methylobacterium extorquens,42,9.3
+ISMex38,Tn3,,Methylobacterium extorquens,42,9.3
+ISMex13,IS21,,Methylobacterium extorquens,42,9.3
+ISMno26,IS110,IS1111,Methylobacterium nodulans,44,2.4
+ISMno25,IS110,IS1111,Methylobacterium nodulans,42,9.3
+ISMno34,IS6,,Methylobacterium nodulans,42,9.3
+ISMpo10,Tn3,,Methylobacterium populi,42,9.3
+ISMpo6,IS1182,,Methylobacterium populi,42,9.3
+ISMpo2,IS1595,ISNwi1,Methylobacterium populi,42,9.3
+ISMsi3,IS3,IS407,Methylocella silvestris,42,9.3
+ISMca6,ISAs1,,Methylococcus capsulatus,46,0.6
+ISMca3,IS3,IS51,Methylococcus capsulatus,42,9.3
+ISMav1,IS21,-,Mycobacterium avium,44,2.4
+IS1612,IS21,-,Mycobacterium avium,44,2.4
+ISMsm1,IS3,IS51,Mycobacterium smegmatis,44,2.4
+ISMysp7,IS256,,Mycobacterium sp.,42,9.3
+ISMt2,IS21,-,Mycobacterium tuberculosis,46,0.6
+ISNml1,IS1380,,Nakamurella multipartita,42,9.3
+ISNamo14,IS630,,Natronomonas moolapensis,46,0.6
+ISNph8,IS200/IS605,IS1341,Natronomonas pharaonis,44,2.4
+ISNisp4,IS256,,Nitrobacter sp.,44,2.4
+ISNwi5,IS481,,Nitrobacter winogradskyi,42,9.3
+ISNieu3,IS3,IS3,Nitrosomonas eutropha,42,9.3
+ISNosp1,IS1380,,Nocardioides sp.,44,2.4
+ISNpu1,IS1182,,Nostoc punctiforme,42,9.3
+ISPme2,IS5,IS427,Paracoccus methylutens,44,2.4
+ISPlu13,IS110,,Photorhabdus luminescens,48,0.15
+ISUnCu4,IS30,,Plasmid QKH54,62,1.00E-05
+ISPosp7,IS1380,,Polaromonas sp.,42,9.3
+ISSoEn1,IS5,IS903,Primary endosymbiont of Sitophilus oryzae,42,9.3
+ISPfr10,IS3,IS407,Propionibacterium freudenreichii,44,2.4
+ISPfr3,ISL3,,Propionibacterium freudenreichii,42,9.3
+ISPa42,Tn3,,Pseudomonas aeruginosa,216,3.00E-52
+ISPa52,IS5,IS5,Pseudomonas aeruginosa,92,1.00E-14
+ISPa16,IS5,IS5,Pseudomonas aeruginosa,62,1.00E-05
+ISPa59,IS30,,Pseudomonas aeruginosa,58,2.00E-04
+ISPa43,Tn3,,Pseudomonas aeruginosa,52,0.01
+ISPa22,IS1182,,Pseudomonas aeruginosa,44,2.4
+ISPa119,IS110,IS1111,Pseudomonas aeruginosa,42,9.3
+ISPa25,IS110,IS1111,Pseudomonas aeruginosa,42,9.3
+ISPa10,IS5,IS5,Pseudomonas aeruginosa,42,9.3
+IS1394,IS30,-,Pseudomonas alcaligenes,80,4.00E-11
+IS1491,IS21,-,Pseudomonas alcaligenes,44,2.4
+IS1474,IS21,-,Pseudomonas alcaligenes,42,9.3
+IS1162,IS21,-,Pseudomonas fluorescens,42,9.3
+ISPps1,IS91,-,Pseudomonas huttiensis,42,9.3
+IS1384,IS5,IS5,Pseudomonas putida,72,1.00E-08
+ISPpu18,IS5,IS5,Pseudomonas putida,62,1.00E-05
+ISPpu21,IS5,IS5,Pseudomonas putida,50,0.038
+ISPpu7,IS21,-,Pseudomonas putida,48,0.15
+ISPpu14,IS66,,Pseudomonas putida,46,0.6
+ISPpu16,IS1182,,Pseudomonas putida,42,9.3
+ISPpu5,IS110,IS1111,Pseudomonas putida,42,9.3
+ISPre1,IS5,IS5,Pseudomonas resinovorans,121,1.00E-23
+ISPre2,IS5,IS5,Pseudomonas resinovorans,72,1.00E-08
+ISPre4,IS21,,Pseudomonas resinovorans,42,9.3
+ISPsp1,IS5,IS5,Pseudomonas sp,72,1.00E-08
+ISPsp8,IS30,,Pseudomonas sp.,60,4.00E-05
+ISPsp7,IS30,,Pseudomonas sp.,54,0.002
+ISPsp4,IS30,,Pseudomonas sp.,42,9.3
+ISPst7,IS5,IS5,Pseudomonas stutzeri,101,1.00E-17
+ISPst5,IS5,IS5,Pseudomonas stutzeri,72,1.00E-08
+ISPst10,IS30,,Pseudomonas stutzeri,58,2.00E-04
+ISPst1,IS30,-,Pseudomonas stutzeri,46,0.6
+ISPsy2,IS5,IS5,Pseudomonas syringae,46,0.6
+ISPsy11,IS3,IS3,Pseudomonas syringae,44,2.4
+IS1240,IS3,IS3,Pseudomonas syringae,44,2.4
+IS51,IS3,IS51,Pseudomonas syringae,42,9.3
+IS1600,IS21,-,Ralstonia eutropha,44,2.4
+ISRso1,IS5,-,Ralstonia solanacearum,44,2.4
+ISRasp1,IS3,IS3,Ralstonia sp.,48,0.15
+ISRta2,IS256,,Ralstonia taiwanensis,42,9.3
+ISRel10,ISNCY,IS1202,Rhizobium etli,44,2.4
+ISRsp2,IS21,-,Rhizobium sp.,42,9.3
+IS10R,IS4,IS10,Salmonella typhimurium,42,9.3
+IS10L,IS4,IS10,Salmonella typhimurium,42,9.3
+Tn3,Tn3,,Salmonella wien,2262,0
+ISSod24,IS3,IS3,Shewanella oneidensis,42,9.3
+ISSod18,IS256,,Shewanella oneidensis,42,9.3
+ISShes11,Tn3,,Shewanella sp.,119,5.00E-23
+ISShes10,IS30,,Shewanella sp.,52,0.01
+ISSpo9,IS5,IS903,Silicibacter pomeroyi,42,9.3
+ISSiac5,ISLre2,,Singulisphaera acidiphila,42,9.3
+ISShsp2,IS1182,,Sphingomonas sp.,42,9.3
+ISStau11,ISAzo13,,Stigmatella aurantiaca,42,9.3
+ISSav5,IS481,,Streptomyces avermitilis,42,9.3
+ISSav3,IS701,,Streptomyces avermitilis,42,9.3
+IS4811,IS5,IS1031,Streptomyces lividans,42,9.3
+ISStsp6,IS5,ISL2,Streptomyces sp,42,9.3
+ISC1359,ISH3,-,Sulfolobus solfataricus,42,9.3
+ISTha3,IS91,,Thauera sp.,42,9.3
+ISTco2,ISLre2,,Thermobacillus composti,42,9.3
+ISThi1,IS5,IS5,Thioalkalivibrio sp.,113,3.00E-21
+ISTro1,IS1380,,Thiocapsa roseopersicina,46,0.6
+ISThsp11,IS3,IS3,Thiomonas sp.,52,0.01
+ISThsp15,IS630,,Thiomonas sp.,44,2.4
+ISThsp8,IS1634,,Thiomonas sp.,44,2.4
+ISThsp19,IS21,,Thiomonas sp.,42,9.3
+ISThsp3,IS66,,Thiomonas sp.,42,9.3
+ISUnCu14,IS66,,Uncultured bacterium,42,9.3
+ISUnCu3,IS21,,Uncultured bacterium,42,9.3
+ISVsp1,IS1634,,Verrucomicrobium spinosum,42,9.3
+ISXcd1,IS3,IS407,Xanthomonas axonopodis,48,0.15
+ISXac2,IS3,IS407,Xanthomonas axonopodis,42,9.3
+IS1051,IS5,IS5,Xanthomonas campestris,48,0.15
+TnXo19,Tn3,,Xanthomonas oryzae,46,0.6
+ISYpe1,IS3,IS407,Yersinia pestis,46,0.6
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
